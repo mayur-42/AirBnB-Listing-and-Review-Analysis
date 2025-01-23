@@ -9,16 +9,59 @@ This project analyzes Airbnb listings to uncover trends, insights, and patterns 
 ---
 
 ## Key Features 🚀
-- **EDA (Exploratory Data Analysis)**: Identify key trends and anomalies in Airbnb listings.  
-- **Visualizations**: Interactive and static charts to analyze reviews, prices, and ratings.  
-- **Text Analysis**: Examine customer reviews to extract sentiment and key themes.  
-- **Insights**: Highlight actionable findings for hosts and guests.  
+1. **Data Cleaning and Preparation**:
+   - Handling missing values.
+   - Renaming columns for consistency.
+   - Converting data types for better processing.
+   
+2. **Exploratory Data Analysis (EDA)**:
+   - Analysis of pricing trends across different locations.
+   - Insights into room types and their availability.
+   - Identification of popular listings based on reviews and occupancy.
+   
+3. **Visualization**:
+   - Charts and graphs to illustrate key insights.
+   - Histograms for price distributions.
+   - Bar charts for room type comparisons.
+   
+4. **Insights**:
+   - Average price by neighborhood.
+   - Seasonal trends in booking patterns.
+   - Most reviewed and highly-rated listings. 
 
 ---
 
 ## Dataset 📂
-- **Source**: [Airbnb Listings Dataset](https://kaggle/input/airbnb-listings-reviews) 
+- **Source**: [Airbnb Listings Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews) 
 - **Description**: The dataset includes details about listings, prices, locations, reviews, and other metadata for Airbnb properties.  
+
+---
+
+## Tools and Libraries Used 🛠️
+- **Python**: Core programming language for data analysis.
+- **Pandas**: For data manipulation and cleaning.
+- **Matplotlib/Seaborn**: For data visualization.
+- **Jupyter Notebook**: Interactive environment for combining code, visualizations, and narrative text.
+- **Kaggle**: To use the Airbnb Listings & Reviews Dataset.
+
+---
+
+## Final Insights 💡
+- Since the launch, the number of Airbnbs has increased, and prices have risen due to initial traction and early adopters.
+- As Airbnb became widely known, the number of listings increased, and prices decreased due to competition.
+- After regulations were announced around 2015, there was underconfidence in the business; the number of Airbnbs decreased while prices increased.
+- When regulations became the new normal in 2019, the number of Airbnbs grew, and prices decreased due to a larger supply.
+
+---
+
+### Recommendations for Airbnb:
+1. Regulations in long-term rentals can negatively impact the business, potentially causing customer churn due to uncertainty.
+2. Such regulations might lead to losses for Airbnb, which may be difficult to recover.
+3. Negative customer experiences due to these regulations could harm Airbnb's brand perception.
+4. Airbnb should monitor for similar regulations in other locations and proactively prepare for them.
+5. Replicating regulation strategies across regions can help mitigate risks.
+6. Introduce strict onboarding and offboarding rules for hosts to ensure quality.
+7. Limit the number of Airbnbs in specific localities to maintain rental balance and avoid government intervention.
 
 ---
 
@@ -37,6 +80,8 @@ This project analyzes Airbnb listings to uncover trends, insights, and patterns 
 ## Technologies Used 🛠️
 - **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Wordcloud, Scikit-learn
 - **Data Source**: Kaggle Airbnb Listings Dataset
+## Kaggle Notebook Link - [Notebook](https://www.kaggle.com/code/mayurjambe/airbnb-listings-review-analysis)
+
 
 ---
 
@@ -44,4 +89,5 @@ This project analyzes Airbnb listings to uncover trends, insights, and patterns 
 - **Author**: Mayur Jambe  
 - **LinkedIn**: [Connect with Me](https://www.linkedin.com/in/mayurjambe42/)  
 - **GitHub**: [GitHub Profile](https://github.com/mayur-42)  
+
 
