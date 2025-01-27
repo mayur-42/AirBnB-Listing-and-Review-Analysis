@@ -37,15 +37,6 @@ This project analyzes Airbnb listings to uncover trends, insights, and patterns 
 
 ---
 
-## Tools and Libraries Used 🛠️
-- **Python**: Core programming language for data analysis.
-- **Pandas**: For data manipulation and cleaning.
-- **Matplotlib/Seaborn**: For data visualization.
-- **Jupyter Notebook**: Interactive environment for combining code, visualizations, and narrative text.
-- **Kaggle**: To use the Airbnb Listings & Reviews Dataset.
-
----
-
 ## Final Insights 💡
 - Since the launch, the number of Airbnbs has increased, and prices have risen due to initial traction and early adopters.
 - As Airbnb became widely known, the number of listings increased, and prices decreased due to competition.
